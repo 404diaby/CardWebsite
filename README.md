@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![Desktop Screen](image/Capture_Screen.PNG)
+![Desktop Screen](image/Capture_Screen.png)
 
 
 ### Links
